@@ -1,0 +1,6 @@
+﻿  checkingmodule.cpp
+C:\All Items\GitHub\Lab04\Lab04\checkingmodule.cpp(68,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\All Items\GitHub\Lab04\Lab04\checkingmodule.cpp(142,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab04.cpp
+  Generating Code...
+  Lab04.vcxproj -> C:\All Items\GitHub\Lab04\x64\Debug\Lab04.exe
